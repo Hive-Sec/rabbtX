@@ -1,37 +1,3 @@
-# LazyOwn CRIME
-
-![LazyOwn_Redteam_framework](https://github.com/user-attachments/assets/d713f163-5f4d-433f-befd-6776d43051da)
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![image](https://github.com/user-attachments/assets/961783c2-cd57-4cc2-ab4c-53fde581db79)
- ![image](https://github.com/user-attachments/assets/79052f87-f87c-4b32-a4a2-854113ca3a4c)
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![image](https://github.com/user-attachments/assets/b69f1d31-c075-4713-a44e-a40a034a7407) ![image](https://github.com/user-attachments/assets/df82a669-be0c-4a03-bd98-842a67baaef6)
-
-![image](https://github.com/user-attachments/assets/2e95d6e7-c072-4a16-9c65-29a8548a549b)
-
-
-```sh
- ██▓    ▄▄▄      ▒███████▒▓██   ██▓ ▒█████   █     █░███▄    █ 
-▓██▒   ▒████▄    ▒ ▒ ▒ ▄▀░ ▒██  ██▒▒██▒  ██▒▓█░ █ ░█░██ ▀█   █ 
-▒██░   ▒██  ▀█▄  ░ ▒ ▄▀▒░   ▒██ ██░▒██░  ██▒▒█░ █ ░█▓██  ▀█ ██▒
-▒██░   ░██▄▄▄▄██   ▄▀▒   ░  ░ ▐██▓░▒██   ██░░█░ █ ░█▓██▒  ▐▌██▒
-░██████▒▓█   ▓██▒▒███████▒  ░ ██▒▓░░ ████▓▒░░░██▒██▓▒██░   ▓██░
-░ ▒░▓  ░▒▒   ▓▒█░░▒▒ ▓░▒░▒   ██▒▒▒ ░ ▒░▒░▒░ ░ ▓░▒ ▒ ░ ▒░   ▒ ▒ 
-░ ░ ▒  ░ ▒   ▒▒ ░░░▒ ▒ ░ ▒ ▓██ ░▒░   ░ ▒ ▒░   ▒ ░ ░ ░ ░░   ░ ▒░
-  ░ ░    ░   ▒   ░ ░ ░ ░ ░ ▒ ▒ ░░  ░ ░ ░ ▒    ░   ░    ░   ░ ░ 
-    ░  ░     ░  ░  ░ ░     ░ ░         ░ ░      ░            ░ 
-                 ░         ░ ░                                 
-```
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2Z73AV)
-
-
-LazyOwn comes with ABSOLUTELY NO WARRANTY. This is free software, and you are  welcome to redistribute it under the terms of the GNU General Public License v3.
-See the LICENSE file for details about using this software.
-
- # LazyOwn: Cyber Redteam Interface Management Environment Network (CRIMEN)
-
-In the shadowy realm of cybersecurity, where digital fortresses are besieged by relentless adversaries, **LazyOwn: CRIMEN** emerges as a beacon of strategic prowess and technical mastery. This advanced and comprehensive toolkit is meticulously crafted for professional red teams, penetration testers, and security researchers, offering an unparalleled arsenal of over 333 meticulously designed attacks tailored for Linux/*nix/bsd/osx and Windows environments. Additionally, **LazyOwn: CRIMEN** integrates the extensive attack library of the Atomic RedTeam Framework, exponentially increasing its offensive capabilities.
 
 # Core Architecture
 LazyOwn is built around a modular, command-driven architecture that provides flexibility and extensibility for security testing workflows.
